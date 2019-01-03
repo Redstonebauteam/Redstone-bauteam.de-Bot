@@ -5,7 +5,7 @@ pip install mkdocs
 pip install mkdocs-material
 ```
 
-# [MEE6 documentation](http://Mee6.github.io/Mee6-documentation/)
+# [Redstone-bauteam.de Bot]
 
 ### Some handy links
 
